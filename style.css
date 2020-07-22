@@ -1,0 +1,46 @@
+h4 {
+    position: absolute;
+    left: 40px;
+    top: 390px;
+}
+
+h4.right1 {
+    position: absolute;
+    left: 190px;
+    top: 390px;
+}
+
+h4.right2 {
+    position: absolute;
+    left: 340px;
+    top: 390px;
+}
+
+h4.right3 {
+    position: absolute;
+    left: 490px;
+    top: 390px;
+}
+
+.button {
+    position: absolute;
+    left: 240px;
+    top: 500px;
+    background-color: #1f2226;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+  }
+
+  .button:hover {
+    background: #2196F3;
+    color: white;
+  }
